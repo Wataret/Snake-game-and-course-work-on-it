@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>fruit.png</file>
+        <file>0 grade.png</file>
+        <file>180 grade.png</file>
+        <file>logo snake.jpg</file>
+    </qresource>
+</RCC>
